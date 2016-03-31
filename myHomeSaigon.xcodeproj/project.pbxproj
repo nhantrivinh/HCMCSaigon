@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		455EE44F1CACEF91009C18AF /* galleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 455EE44E1CACEF91009C18AF /* galleryViewController.swift */; };
 		45624BC41CAC376200BC7CAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45624BC31CAC376200BC7CAF /* AppDelegate.swift */; };
 		45624BC61CAC376200BC7CAF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45624BC51CAC376200BC7CAF /* ViewController.swift */; };
 		45624BC91CAC376200BC7CAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45624BC71CAC376200BC7CAF /* Main.storyboard */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		455EE44E1CACEF91009C18AF /* galleryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = galleryViewController.swift; sourceTree = "<group>"; };
 		45624BC01CAC376200BC7CAF /* myHomeSaigon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myHomeSaigon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45624BC31CAC376200BC7CAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45624BC51CAC376200BC7CAF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -65,7 +63,6 @@
 				45624BCC1CAC376200BC7CAF /* LaunchScreen.storyboard */,
 				45624BCF1CAC376200BC7CAF /* Info.plist */,
 				45624BD71CAC471100BC7CAF /* MoreViewController.swift */,
-				455EE44E1CACEF91009C18AF /* galleryViewController.swift */,
 			);
 			path = myHomeSaigon;
 			sourceTree = "<group>";
@@ -143,7 +140,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				45624BD81CAC471100BC7CAF /* MoreViewController.swift in Sources */,
-				455EE44F1CACEF91009C18AF /* galleryViewController.swift in Sources */,
 				45624BC61CAC376200BC7CAF /* ViewController.swift in Sources */,
 				45624BC41CAC376200BC7CAF /* AppDelegate.swift in Sources */,
 			);
